@@ -299,6 +299,14 @@
 	{
 	}
 	
+	#nothomepage
+	{
+		position: relative;
+		background: #2a2f27 url(../images/researchinterests.jpg) no-repeat;
+		background-size: cover;
+	}
+
+
 	#nav
 	{
 	}
