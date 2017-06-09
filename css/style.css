@@ -104,7 +104,21 @@
 			margin: 0.5em 0 0 0;
 			padding: 0 0 0.5em 0;
 		}
-		
+
+	header2
+	{
+		margin-bottom: 1em;
+	}
+		header2 h2
+		{
+		}
+		header2 .byline
+		{
+			display: block;
+			margin: 0.5em 0 0 0;
+			padding: 0 0 0.5em 0;
+		}
+
 	footer
 	{
 		margin-top: 1em;
