@@ -43,11 +43,11 @@
 		padding: 5em 0em;
 		text-align: center;
 	}
-		.homepage #header
+		.nothomepage #header
 		{
 			padding:15em 0em;
 		}
-		#nothomepage .continer
+		#header .continer
 		{
 		}
 
