@@ -105,14 +105,14 @@
 			padding: 0 0 0.5em 0;
 		}
 
-	header2
+	nothomepage
 	{
 		margin-bottom: 1em;
 	}
-		header2 h2
+		nothomepage h2
 		{
 		}
-		header2 .byline
+		nothomepage .byline
 		{
 			display: block;
 			margin: 0.5em 0 0 0;
@@ -313,7 +313,7 @@
 	{
 	}
 	
-	#header2
+	#nothomepage
 	{
 		position: relative;
 		background: #2a2f27 url(../images/researchinterests.jpg) no-repeat;
