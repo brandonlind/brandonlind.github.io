@@ -37,6 +37,20 @@
 		{
 		}
 
+	#nothomepage
+	{
+		position: relative;
+		padding: 5em 0em;
+		text-align: center;
+	}
+		.homepage #header
+		{
+			padding:15em 0em;
+		}
+		#nothomepage .continer
+		{
+		}
+
 /*********************************************************************************/
 /* Logo                                                                          */
 /*********************************************************************************/
