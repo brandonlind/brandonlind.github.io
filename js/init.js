@@ -12,6 +12,15 @@ skel.init({
 		gutters: 50
 	},
 	breakpoints: {
+		'mobile': {
+			range: '-480',
+			lockViewport: true,
+			containers: 'fluid',
+			grid: {
+				collapse: true,
+				gutters: 10
+			}
+		},
 		'desktop': {
 			range: '481-',
 			containers: 1200
@@ -25,7 +34,7 @@ skel.init({
 	panels: {
 		panels: {
 			navPanel: {
-				breakpoints: 'desktop',
+				breakpoints: 'mobile',
 				position: 'left',
 				style: 'reveal',
 				size: '80%',
@@ -34,7 +43,7 @@ skel.init({
 		},
 		overlays: {
 			titleBar: {
-				breakpoints: 'desktop',
+				breakpoints: 'mobile',
 				position: 'top-left',
 				height: 44,
 				width: '100%',
