@@ -37,20 +37,6 @@
 		{
 		}
 
-	#notheader
-	{
-		position: relative;
-		padding: 5em 0em;
-		text-align: center;
-	}
-		.nothomepage #notheader
-		{
-			padding:15em 0em;
-		}
-		#notheader .continer
-		{
-		}
-
 /*********************************************************************************/
 /* Logo                                                                          */
 /*********************************************************************************/
