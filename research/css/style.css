@@ -291,7 +291,7 @@
 	#header
 	{
 		position: relative;
-		background: #2a2f27 url(https://github.com/brandonlind/brandonlind.github.io/blob/master/research/images/banner.JPG?raw=true) no-repeat;
+		background: #2a2f27 url(../images/banner.JPG?raw=true) no-repeat;
 		background-size: cover;
 	}
 
