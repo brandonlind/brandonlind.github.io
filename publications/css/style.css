@@ -52,6 +52,13 @@
 		color: #272727;
 	}
 
+	.alignleft {
+		float: left;
+	}
+	.alignright {
+		float: right;
+	}
+
 	a:hover
 	{
 		text-decoration: none;
@@ -254,6 +261,28 @@
 			padding-top: 0px;
 			border-top: none;
 		}
+		
+		ul.leaders {
+		    max-width: 60em;
+		    padding: 0.60em 0em;
+		    overflow-x: hidden;
+		    list-style: none}
+		ul.leaders li:before {
+		    float: left;
+		    width: 0;
+		    white-space: nowrap;
+		    content:
+		 ". . . . . . . . . . . . . . . . . . . . . . . . "
+		 ". . . . . . . . . . . . . . . . . . . . . . . . "
+		 ". . . . . . . . . . . . . . . . . . . . . . . . "
+		 ". . . . . . . . . . . . . . . . . . . . . . . . "}
+		ul.leaders span:first-child {
+		    padding-right: 0.33em;
+		    background: white}
+		ul.leaders span + span {
+		    float: right;
+		    padding-left: 0.33em;
+		    background: white}
 							
 
 	/* Buttons */
