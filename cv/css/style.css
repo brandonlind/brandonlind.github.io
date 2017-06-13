@@ -320,7 +320,7 @@
 	#header
 	{
 		position: relative;
-		background: #2a2f27 url(../images/banner.JPG?raw=true) no-repeat;
+		background: #2a2f27 url(../images/banner.jpg?raw=true) no-repeat;
 		background-size: cover;
 	}
 
