@@ -1,9 +1,3 @@
-/*
-	Iridium by TEMPLATED
-    templated.co @templatedco
-    Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
-*/
-
 /*********************************************************************************/
 /* Basic                                                                         */
 /*********************************************************************************/
@@ -291,7 +285,7 @@
 	#header
 	{
 		position: relative;
-		background: #2a2f27 url(../images/banner.JPG?raw=true) no-repeat;
+		background: #2a2f27 url(../images/banner.jpg?raw=true) no-repeat;
 		background-size: cover;
 	}
 
